@@ -4,8 +4,8 @@ ResTIC36 - Residência em Software Trilha 3 - Ciência de dados
 ## Autores:
 
 *[Grupo 95]*
-Vinícius de Oliveira Souza
-Sanley Pires
+- Vinícius de Oliveira Souza
+- Sanley Pires
 
 
 ---
